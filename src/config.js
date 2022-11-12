@@ -1,7 +1,7 @@
 export const CONFIG = {
   TEMPLATE: {
     // 1. Set your NFT collection contract address
-    "collection_address": "0x9498274b8c82b4a3127d67839f2127f2ae9753f4",
+    "collection_address": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
 
     // 2. Set your blockchain chain ID where your NFT collection contract address is deployed (see below for value options)
     "block_chain_id": "137",
@@ -10,7 +10,7 @@ export const CONFIG = {
     "title": "My NFT Collection",
 
     // 4. Set your Covalent API Key
-    "api_key": "ckey_3bdabb7325ee47cc9bcc1e5f3d7",
+    "api_key": "ckey_560f799fe5c244498b03217c56e",
 
     // 5. (Optional) Display the floor price chart
     "timeseries_chart": true,
